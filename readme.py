@@ -10,6 +10,6 @@
 # so now, after the midterm, this is my fuck you to programming.
 # it wont beat me as cliche and lame as that sounds.
 # i am now, in my free time, going through this fucking book and doing every single exercise
-# Professor is awesome, and very experienced, but this way of thinking about things is soo new to me.
+# Again, professor is awesome, and very experienced, but this way of thinking about things is soo new to me.
 # it cant be done in 8 weeks, at least for me.
 # heres to the properly titled project/repository, Round #2
