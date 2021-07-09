@@ -13,3 +13,6 @@
 # Again, professor is awesome, and very experienced, but this way of thinking about things is soo new to me.
 # it cant be done in 8 weeks, at least for me.
 # heres to the properly titled project/repository, Round #2
+
+# //////rant
+
