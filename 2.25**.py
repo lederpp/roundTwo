@@ -1,4 +1,4 @@
-
+# Look Over
 
 import turtle
 
@@ -6,5 +6,14 @@ cX, cY = eval(input("Enter the center point for a rectangle (separated by a comm
 w, h = eval(input("Enter the width and height (separated by a comma): "))
 
 turtle.penup()
-turtle.goto(cX, cY)
-turtle.goto(0.5 * cX, 0.5 * cY)
+turtle.goto(cX - 0.5 * w, cY + 0.5 * h)
+turtle.pendown()
+turtle.forward(w)
+turtle.right(90)
+turtle.forward(h)
+turtle.right(90)
+turtle.forward(w)
+turtle.right(90)
+turtle.forward(h)
+
+turtle.done()
